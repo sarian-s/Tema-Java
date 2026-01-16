@@ -9,6 +9,7 @@
 Любые вопросы по решению задач задавайте в чате курса.
 
 <font color="blue">Также синий через font</font>.
+<span style="color:blue">**Основной модуль:**</span> 
 ##  <span style="color:blue">Практически во всех заданиях использовал chatgpt или deepseek.</span>
 
 ## Блок 1. Введение в Java
